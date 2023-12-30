@@ -7,12 +7,10 @@
 
 </div>
 
-<div align="justify">
-  Add Journey to HTML.
-  Add Images in Images Directory.
-  Update CSS and JS File.
-  Update API Database.
-</div>
+<p>Add Journey to HTML file</p>
+<p>Add Images in images directory.</p>
+<p>Update CSS and JS file.</p>
+<p>Update API Database.</p>
 
 ---
 
