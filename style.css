@@ -10,7 +10,7 @@ h2 {
 
 .container-body {
   background: url('images/finalbg.jpg') no-repeat center center fixed;
-	background-size: cover;
+  background-size: cover;
   margin: 0;
   padding: 0;
 }
@@ -22,6 +22,7 @@ h2 {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .header-name {
