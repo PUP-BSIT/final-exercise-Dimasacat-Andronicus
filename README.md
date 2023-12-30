@@ -1,11 +1,12 @@
 <div align="center">
-#  FINAL EXERCISE 
+
+Final Exercise
 
 ### Explore the website on:
-
 [![Netlify](https://img.shields.io/badge/Netlify-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://dimasacatwebsite.netlify.app/)
-
 </div>
+
+---
 
 <p>Add Journey to HTML file</p>
 <p>Add Images in images directory.</p>
