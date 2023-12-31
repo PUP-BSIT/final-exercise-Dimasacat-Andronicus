@@ -366,100 +366,6 @@ div.goals-style {
 	background-color: #013261;
 }
 
-.container-comment {
-	margin-top: 100px;
-}
-
-.comment-style {  
-	font-size: x-small;
-	margin:0 auto;
-	margin-bottom: 20px;	
-}
-
-.guide-comment {
-	border: 2px solid #4169E1;
-	padding: 20px;
-	margin: 10px;
-	background-color: #f9f9f9;
-	color: black;
-	border-radius: 5px;
-	margin-bottom: 30px;
-}
-
-.comment-style {
-	border: 1px solid #ccc;
-	margin: 10px 0;
-	padding: 10px;
-	background-color: #fff;
-	border-radius: 5px;
-}
-
-.comment-name {
-	font-weight: bold;
-}
-
-.comments {
-	margin: 10px 0;
-}
-
-#sort_button {
-	background-color: #0074cc;
-	color: #fff;
-	border: none;
-	padding: 5px 10px;
-	cursor: pointer;
-	border-radius: 5px;
-	border: 2px solid #4169E1;
-	margin-top: 10px;
-}
-
-#sort_button:hover {
-	background-color: #0056a4;
-}
-
-.comment-input-style {
-	display: flex;  
-	flex-direction: column;
-	align-items: center;
-	text-align: center;
-	justify-content: center;
-	margin:0 auto;
-	width: 200px;
-	background-color: #fff;
-	padding:25px;
-	border:2px solid #4169E1;
-	border-radius: 8px;
-}
-
-.comment-input-style input,
-.comment-input-style textarea,
-.comment-input-style button {
-	margin: 15px;
-}
-
-#input_name {
-	width: 125px;
-}
-
-#input_comment {
-	width: 200px;
-	height: 100px;
-}
-
-#btn {
-	background-color: #4169E1; 
-	color: #fff; 
-	border: none; 
-	padding: 10px 20px; 
-	cursor: pointer;
-	border-radius: 5px; 
-}
-
-#btn:disabled {
-	background-color: #ccc;
-	cursor: not-allowed;
-}
-
 @media (min-width: 372px) and (max-width: 700px) {
 	h1 {
 		font-size: x-large;
@@ -499,23 +405,6 @@ div.goals-style {
 		font-size: medium;
 		margin-left: 10px;
 		margin-right: 10px;
-	}
-
-	.comment-style {
-		font-size: medium;
-	}
-
-	.comment-input-style {
-		width: 300px;
-	}
-
-	#input_name {
-		width: 300px;
-	}
-	
-	#input_comment {
-		width: 300px;
-		height: 150px;
 	}
 }
 
@@ -562,23 +451,6 @@ div.goals-style {
 	div.goals-style {
 		font-size: medium;
 		width: 300px;
-	}
-
-	.comment-style {
-		font-size: medium;
-	}
-
-	.comment-input-style {
-		width: 500px;
-	}
-
-	#input_name {
-		width: 400px;
-	}
-	
-	#input_comment {
-		width: 400px;
-		height: 200px;
 	}
 }
 
