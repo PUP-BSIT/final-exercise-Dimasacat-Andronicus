@@ -11,6 +11,7 @@
 <p>Add Journey to HTML file</p>
 <p>Add Images in images directory.</p>
 <p>Update CSS and JS file.</p>
+<p>Delete Comment Section.</p>
 <p>Update API using Firebase Realtime Database.</p>
 
 ---
