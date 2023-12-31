@@ -1,18 +1,17 @@
 <div align="center">
 
-###Final Exercise
+<h1>FINAL EXERCISE<h2> 
 
 ### Explore the website on:
 [![Netlify](https://img.shields.io/badge/Netlify-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://dimasacatwebsite.netlify.app/)
 </div>
 
 ---
-
+<h3>New Features / Updates</h3>
 <p>Add Journey to HTML file</p>
 <p>Add Images in images directory.</p>
 <p>Update CSS and JS file.</p>
-<p>Update API Database.</p>
-<p>Using firebase to follow.</p>
+<p>Update API using Firebase Realtime Database.</p>
 
 ---
 
