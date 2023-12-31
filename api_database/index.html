@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Genshin Impact Database</title>
-    <link rel="stylesheet" href="styles.css"/>
+    <link rel="stylesheet" href="./api.css"/>
   </head>
   <body>
     <div class="main-container">
@@ -57,9 +57,22 @@
         </form>
       </div>
       <div class="table-container">
-        <table id="character_list"></table> 
+        <table>
+			<thead>
+				<tr>
+					<th>Character Name</th>
+					<th>Weapon</th>
+					<th>Vision</th>
+					<th>Gender</th>
+					<th>Region</th>
+					<th>Modify</th>
+					<th>Delete</th>
+				</tr>
+			</thead>
+			<tbody id="character_list"></tbody>
+		</table> 
       </div>
     </div>
-    <script src="./script.js"></script>
+    <script src="./api.js"></script>
   </body>
 </html>
